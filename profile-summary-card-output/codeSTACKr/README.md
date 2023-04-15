@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/hy-sksem/hy-sksem/main/profile-summary-card-output/codeSTACKr/4-productive-time.svg)
+```
+
+    
